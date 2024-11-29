@@ -7,7 +7,6 @@ theme: PaperMod
 languageCode: en-us
 title: My New Hugo Site
 
-
 nableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
